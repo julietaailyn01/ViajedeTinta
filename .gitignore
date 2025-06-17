@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET
+bin/
+obj/
+*.db
+*.log
+
+# Next.js / Node
+node_modules/
+.next/
+.env
+.env.local
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# General
+*.vsidx
